@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+
 public class StoreFileRL {
 private static int numInstancesCD = 0;
 private static int numInstancesDVD = 0;
